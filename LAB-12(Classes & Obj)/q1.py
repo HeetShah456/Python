@@ -1,6 +1,4 @@
-# 24bit119
 
-# Que-1
 
 class Complex:
     def __init__(self, real, imag):
