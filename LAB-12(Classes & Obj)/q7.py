@@ -1,6 +1,4 @@
-# 24bit119
 
-# Que-7
 
 class Weather:
     def __init__(self):
