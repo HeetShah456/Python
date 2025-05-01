@@ -1,6 +1,3 @@
-# 24bit119
-
-# Que-2
 
 class Matrix:
     def __init__(self, data):
