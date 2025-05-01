@@ -1,6 +1,4 @@
-# 24bit119
 
-# Que-4
 
 import math
 
