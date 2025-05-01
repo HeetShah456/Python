@@ -1,6 +1,4 @@
-# 24bit119
 
-# Que-5
 
 class Time:
     def __init__(self, hours=0, minutes=0, seconds=0):
