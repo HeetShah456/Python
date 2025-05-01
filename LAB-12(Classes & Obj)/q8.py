@@ -1,6 +1,4 @@
-# 24bit119
 
-# Que-8
 
 class String:
     def __init__(self, value=""):
