@@ -1,6 +1,4 @@
-# 24bit119
 
-# Que-6
 
 class Date:
     def __init__(self, day=1, month=1, year=2000):
